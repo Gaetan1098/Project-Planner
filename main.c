@@ -1,9 +1,5 @@
 /********* main.c ********
 	
-	Student Name 	= Gaetan Fodjo
-	Student Number	= 101263973
-*/
-
 #include <stdio.h>
 #include "a1_functions.h"
 #include <string.h>
