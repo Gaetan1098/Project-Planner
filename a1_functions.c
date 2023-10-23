@@ -1,8 +1,4 @@
 /********* definitions.c ********
-	
-	Student Name 	= Gaetan Fodjo
-	Student Number	= 101263973
-*/
 
 #include "a1_functions.h"
 #include <math.h>
