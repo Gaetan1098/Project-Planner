@@ -1,9 +1,3 @@
-/********* a1_data_structures.h ********
-	
-	Student Name 	= Gaetan Fodjo  
-	Student Number	= 101263973
-*/
-
 /********** DON'T MODIFY **********/
 typedef struct milestone {
     char name[100];
