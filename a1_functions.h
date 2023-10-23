@@ -1,9 +1,3 @@
-/********* a1_functions.h ********
-	
-	Student Name 	= Gaetan Fodjo
-	Student Number	= 101263973
-*/
-
 #include "a1_data_structures.h"
 
 /*
